@@ -1,7 +1,7 @@
 # Wavelet-Convolutional-Neural-Network
 Wavelet convolutional neural network  combines a multiresolution analysis and convolutional neural network into a single  model to achieve computer vision task.
 
-## Model Architecture of wavelet convolutional neural network
+## Model Architecture of wavelet convolutional neural network ![Paper](https://arxiv.org/pdf/1805.08620.pdf)
 ![wavelet-cnn](https://user-images.githubusercontent.com/63404097/153762968-c4fccfaf-9940-41ea-ae1e-29630d4eecb8.png)
 
 ### Description wavelet convolutional neural network connectivity
