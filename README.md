@@ -12,3 +12,5 @@ decomposed through multiresolution analysis and the decomposed images are concat
 by 1 × 1 convolutions. The output of convolution layers is vectorized by global average pooling followed by a fully connected layer (fc).
 The size of the output is equal to the number of classes included in the input dataset.
 
+At each level of decomposition, there sub-bands of images generated in which the approximate coefficient whichis the low-frequency component is further decomposed in the subsequent level to generate another sub-bands of images.  
+
