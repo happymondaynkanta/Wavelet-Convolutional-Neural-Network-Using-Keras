@@ -11,6 +11,7 @@ convolutional kernels with the stride of 2 and 1 × 1 padding are used to reduce
 decomposed through multiresolution analysis and the decomposed images are concatenated channel-wise. The projection shortcuts are done
 by 1 × 1 convolutions. The output of convolution layers is vectorized by global average pooling followed by a fully connected layer (fc).
 The size of the output is equal to the number of classes included in the input dataset.
+[Click here to read the paper!](https://arxiv.org/pdf/1805.08620.pdf)
 
 ### Multi-Resolution Analysis of Discrete Wavelet Transform Decomposition
 At each level of decomposition, there sub-bands of images generated in which the approximate coefficient whichis the low-frequency component is further decomposed in the subsequent level to generate another sub-bands of images.  
