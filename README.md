@@ -16,8 +16,8 @@ The size of the output is equal to the number of classes included in the input d
 ### Multi-Resolution Analysis of Discrete Wavelet Transform Decomposition
 For 2-dimensional image input, Multi-Resolution Analysis of Discrete Wavelet Transform Decomposition is applied as a technique to decomposed the image into approximate and detail coefficient of varying frequencies and scales through low- and high-pass filters with the scale factor of 2. The approximat coefficient is the low frequency component while the detail coefficient is the high frequency component.
 
-Approximate image
-![A](https://user-images.githubusercontent.com/63404097/153786311-03fbb2f6-9941-45c9-98e6-bb0320dfaf78.PNG)
+
+![A](https://user-images.githubusercontent.com/63404097/153786311-03fbb2f6-9941-45c9-98e6-bb0320dfaf78.PNG) Approximate image
 
 
 Horizontal image
