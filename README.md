@@ -19,25 +19,25 @@ For 2-dimensional image input, Multi-Resolution Analysis of Discrete Wavelet Tra
 
 ![A](https://user-images.githubusercontent.com/63404097/153786311-03fbb2f6-9941-45c9-98e6-bb0320dfaf78.PNG) 
 
-Approximate image
+Approximate image (LL)
 
 
 
 ![H](https://user-images.githubusercontent.com/63404097/153786330-85594e96-a0c9-4992-8892-93e6ef72ccbd.PNG)
 
-Horizontal image
+Horizontal image (HL)
 
 
 
 ![V](https://user-images.githubusercontent.com/63404097/153786343-7987f1c1-6b6f-4909-b31b-aaab34887135.PNG)
 
-Vertical image
+Vertical image (LH)
 
 
 
 ![D](https://user-images.githubusercontent.com/63404097/153786351-603aad20-8778-4375-8f4e-d4380e5c5c13.PNG)
 
-Diagonal image
+Diagonal image (HH)
 
 
 
