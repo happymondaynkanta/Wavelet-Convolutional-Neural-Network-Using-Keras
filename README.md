@@ -19,17 +19,23 @@ For 2-dimensional image input, Multi-Resolution Analysis of Discrete Wavelet Tra
 Approximate image
 ![A](https://user-images.githubusercontent.com/63404097/153786311-03fbb2f6-9941-45c9-98e6-bb0320dfaf78.PNG)
 
+
 Horizontal image
 ![H](https://user-images.githubusercontent.com/63404097/153786330-85594e96-a0c9-4992-8892-93e6ef72ccbd.PNG)
 
+
 Vertical image
 ![V](https://user-images.githubusercontent.com/63404097/153786343-7987f1c1-6b6f-4909-b31b-aaab34887135.PNG)
+
 
 Diagonal image
 ![D](https://user-images.githubusercontent.com/63404097/153786351-603aad20-8778-4375-8f4e-d4380e5c5c13.PNG)
 
 
 
-At each level of decomposition, sub-bands (LL, HL, LH, HH) of images are generated which are fed as input to the neural network. For subsequent decomposition levels, the approximate coefficient which is the low-frequency component is further decomposed to generate another sub-bands of images.  
+At each level of decomposition, sub-bands (LL, HL, LH, HH) of images are generated which are fed as input to the neural network. For subsequent decomposition levels, the approximate coefficient which is the low-frequency component is further decomposed to generate another sub-bands of images.
+
+![LEVELS](https://user-images.githubusercontent.com/63404097/153786542-5a057d4a-ac90-433a-8f25-3b089ed6881a.PNG)
+
 
 
