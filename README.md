@@ -48,4 +48,10 @@ At each level of decomposition, sub-bands (LL, HL, LH, HH) of images are generat
 Input flow into the neural network
 
 
+![sub-bands](https://user-images.githubusercontent.com/63404097/153787492-9d17bbd2-96df-42cd-b197-43017f9e5e68.PNG)
+
+Two level wavelet decomposition
+
+
+
 
