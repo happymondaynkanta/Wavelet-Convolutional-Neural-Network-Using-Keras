@@ -13,7 +13,7 @@ by 1 × 1 convolutions. The output of convolution layers is vectorized by global
 The size of the output is equal to the number of classes included in the input dataset.
 [Click here to read the paper](https://arxiv.org/pdf/1805.08620.pdf)
 
-
+### Multi-Resolution Analysis of Discrete Wavelet Transform Decomposition
 For 2-dimensional image input, Multi-Resolution Analysis of Discrete Wavelet Transform Decomposition is applied as a technique to decomposed the image into approximate and detail coefficient of varying frequencies and scales through low- and high-pass filters with the scale factor of 2. The approximat coefficient is the low frequency component while the detail coefficient is the high frequency component.
 
 
